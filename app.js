@@ -7,7 +7,7 @@ const finalMessage = document.getElementById("final-message");
 
 const figureParts = document.querySelectorAll(".figure-part");
 
-const words = ["applıcation", "programmıng", "ınterface", "wızard"];
+const words = ["mustafa", "laboratuvar", "palamutlama", "madde"];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
